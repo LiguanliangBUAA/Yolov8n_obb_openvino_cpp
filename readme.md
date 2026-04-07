@@ -9,8 +9,11 @@ How to use:
 '''bash
 
 mkdir build && cd build
+
 cmake..
+
 make
+
 ./yolov8n_obb_test.cpp
 
 
